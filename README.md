@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## About Us
 
-You can use the [editor on GitHub](https://github.com/ACMW-Manipal/ACMW-Manipal.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+ACM-W supports, celebrates, and advocates internationally for the full engagement of women in all aspects of computer science. The Manipal chapter of ACM-W wishes to carry forward the vision of ACM-W in establishing a society that not only motivates young girls to become zealous programmers but also provides them with adequate resources and the right mentorship at every step in their path.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### What We Do
+Resources, connections and mentorship play a pivotal role in proliferating women participation in technology. Being a student-centric chapter, we focus on the needs of girls who are striving to build a career in technology. Our events are primarily research-centric and collaborative with the various computer-related departments at college. Each of us believe in contributing to a cause that is greater than ourselves.
 
-### Markdown
+### How You Can Contribute
+>Empowered women empower women
+Get in touch with us, on Facebook!
+Join our group- motivate each other, share ideas and ignite the researcher in you.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ACMW-Manipal/ACMW-Manipal.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+ 

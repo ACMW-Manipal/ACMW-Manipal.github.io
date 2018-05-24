@@ -10,13 +10,3 @@ Get in touch with us, on Facebook!
 Join our group- motivate each other, share ideas and ignite the researcher in you.
 
  
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3

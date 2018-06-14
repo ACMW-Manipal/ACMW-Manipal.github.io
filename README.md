@@ -6,5 +6,6 @@ ACM-W supports, celebrates, and advocates internationally for the full engagemen
 
 Resources, connections and mentorship play a pivotal role in proliferating women participation in technology. Being a student-centric chapter, we focus on the needs of girls who are striving to build a career in technology. Our events are primarily research-centric and collaborative with the various computer-related departments at college. Each of us believes in contributing to a cause that is greater than ourselves.
 
+Feel free to contribute to our Website.
 
  
